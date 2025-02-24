@@ -25,12 +25,7 @@ class Solution(object):
         :rtype: int
         """
         
-        if len(nums) == 1:
-            print(nums[0])
-            return nums[0]
-        
-        sorted_nums = sorted(nums)
-        print(sorted_nums)
+   
         
         # fazer
         
